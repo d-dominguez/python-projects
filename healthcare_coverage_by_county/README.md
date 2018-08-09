@@ -1,4 +1,4 @@
-# Health Insurance App
+# Health Insurance Coverage by County
 
 This program takes a user inputed zipcode and connects to several APIs to obtain the amount and percentage of people covered by health insurance in the county.
 
